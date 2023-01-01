@@ -4,6 +4,10 @@
 /* more headers goes there */
 
 /* betty style doc for function main goes there */
+/** A function that prints is positive if a random 
+ * generated number is greater than zero, negative 
+ * if it is less than zero, and zero if it is zero 
+* */
 int main(void)
 {
 	int n;
