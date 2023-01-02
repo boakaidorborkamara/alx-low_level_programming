@@ -7,9 +7,10 @@ int main(void)
 	for(character = 'a'; character <= 'z'; character++)
 	{
 		putchar(character);
-		printf("\n");
 	}	
-	
+ 	
+	printf("\n");                                                                               
+
 	return (0);
 }	
 
